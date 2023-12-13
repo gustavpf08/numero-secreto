@@ -1,5 +1,5 @@
 let numbersSorted = [];
-let limitArray = 100;
+let limitArray = 10;
 let random = generateRandomNumber();
 let tries = 1;
 
@@ -20,7 +20,7 @@ function generateRandomNumber() {
   let numberChoosed = parseInt(Math.random() * limitArray + 1);
   let resetingList = numbersSorted.length;
 
-  if (resetingList == 100) {
+  if (resetingList == 10) {
     numbersSorted = [];
   }
 
