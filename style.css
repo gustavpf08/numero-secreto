@@ -92,7 +92,7 @@ body::before {
 
 h1 {
     font-family: 'Chakra Petch', sans-serif;
-    font-size: 36px;
+    font-size: 24px;
     padding-bottom: 3rem;
 }
 
@@ -102,7 +102,7 @@ button {
 }
 
 .texto__paragrafo {
-    font-size: 24px;
+    font-size: 18px;
     font-weight: 400;
 }
 
